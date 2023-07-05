@@ -55,8 +55,6 @@
         </dependency>
     </dependencies>
 
-    <!--  静态资源过滤问题  -->
-
     <build>
         <plugins>
             <plugin>
