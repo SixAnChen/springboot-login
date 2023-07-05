@@ -28,7 +28,4 @@ public class LoginController {
             return "error";
         }
     }
-
-
-
 }
